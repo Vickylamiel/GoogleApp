@@ -1,0 +1,18 @@
+.language{
+    font-size: small;
+    margin-bottom: 24px;
+    text-align: center;
+    color: #4d5156;
+    display: inline-block;
+    line-height: 28px;
+}
+
+.language a {
+    padding: 0 5px;
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+.language a:hover, a:active{
+    text-decoration: underline;
+}

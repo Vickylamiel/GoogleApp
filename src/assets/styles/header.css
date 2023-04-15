@@ -1,0 +1,12 @@
+.app_header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 8px;
+}
+
+.app_header_menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

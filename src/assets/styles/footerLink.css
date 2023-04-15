@@ -1,0 +1,22 @@
+.footer_link{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0 20px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.carbon_text img{
+    font-size: 0.7rem;
+}
+
+.footer_link a{
+    color: #70757a;
+    padding: 15px;
+}
+
+.footer_link a:hover{
+    text-decoration: underline;
+    color: #70757a;
+}
