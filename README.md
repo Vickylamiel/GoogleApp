@@ -7,4 +7,4 @@ I divided the Google App into 3 major component which are:
 2. Search Section component
 3. Footer component
 
-These major compoments have sub components inside as I've listed the src folder
+These major compoments have sub components inside as I've listed the src folder.
