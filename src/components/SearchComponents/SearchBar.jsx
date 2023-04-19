@@ -2,7 +2,8 @@ import React from 'react';
 import SearchIcon from '../../assets/images/search (1).png';
 import VoiceSearch from '../../assets/images/google voice.png';
 import ImageSearch from '../../assets/images/search image.svg';
-import '../../assets/styles/searchBar.css';
+import '../../assets/styles/searchBar.css';                        
+
 
 export default function SearchBar() {
   return (

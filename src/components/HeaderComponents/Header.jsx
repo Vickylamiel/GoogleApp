@@ -8,8 +8,8 @@ export default function Header() {
   return (
     <div className="app_header">
       <div className="app_header_menu">
-      <MenuItem title={"Gmail"}/>
-      <MenuItem title={"Images"}/>
+      <MenuItem title={"Gmail"} />
+      <MenuItem title={"Images"} />
       <AppLauncherIcon />
       <Avatar />
       </div>
